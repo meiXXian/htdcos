@@ -1,0 +1,19 @@
+#head-picture{
+    max-width: 100%;
+}
+
+#greeting{
+    font-family: 'Poiret One', cursive;
+    color:#3d708e;
+}
+
+#2048-link{
+    text-align: center;
+    line-height: 100%;
+}
+
+.container{
+    height: 300px;
+    background-color: #3d708e;
+    float:left;
+}

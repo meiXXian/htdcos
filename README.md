@@ -1,2 +1,1 @@
-# htdcos
-my website
+# htdocs
